@@ -7,4 +7,4 @@ The game concept was loosely inspired by a Harry Potter game level I used to pla
 * Extension of cocos creator GUI framework to provide missing features 
 and smoother more refined handling, especially of scroll behaviors.
 * Implementation of a procedural achievement system.
-* Implementation of a simple state machine used for player handling.
+* Implementation of a simple state machine for managing player state.
