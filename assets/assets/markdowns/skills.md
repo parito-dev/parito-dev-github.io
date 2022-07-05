@@ -3,7 +3,7 @@
 * Full ownership of the codebase on assigned projects.
 * Tight collaboration with Game designers and artists.
 * Contributions to a lesser level on the company internal SDK.
-## Morphy Games | Feb 2022 - May 2022 | . Months contract
+## Morphy Games | Feb 2022 - May 2022 | 3 Months contract
 * Collabarated with other developers, designers and artists on assigned projects. 
 ## Part-time freelance game developer | 2018 - 2021
 * Published own games under the name of Parito on Playstore
