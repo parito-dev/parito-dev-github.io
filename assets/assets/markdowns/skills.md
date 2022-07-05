@@ -1,5 +1,5 @@
 # Experiences
-## Kobgames Studio | Current | 3 months contract
+## Kobgames Studios | Current | 3 months contract
 * Full ownership of the codebase on assigned projects.
 * Tight collaboration with Game designers and artists.
 * Contributions to a lesser level on the company internal SDK.
